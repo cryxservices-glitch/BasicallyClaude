@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "BasicallyClaude",
+  "agent": {
+    "BasicallyClaude": {
+      "description": "OpenCode agent powered by the full leaked Claude Code source. Uses actual Claude Code architecture, tool system, command patterns, and reasoning logic.",
+      "mode": "all"
+    }
+  }
+}
