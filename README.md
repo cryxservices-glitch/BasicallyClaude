@@ -5,9 +5,10 @@
 Created by **Aporia**.
 
 ```
-Repository: github.com/Aporia/BasicallyClaude
+Repository: github.com/cryxservices-glitch/BasicallyClaude
 Agent:     BasicallyClaude (for OpenCode)
 Base:      codeaashu/claude-code (full leaked source, preserved intact)
+Author:    Aporia
 ```
 
 ---
@@ -778,7 +779,7 @@ Copy-Item ".opencode\agents\BasicallyClaude.md" "$env:USERPROFILE\.config\openco
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/Aporia/BasicallyClaude.git
+git clone https://github.com/cryxservices-glitch/BasicallyClaude.git
 cd BasicallyClaude
 
 # 2. Install the agent globally
